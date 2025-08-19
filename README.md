@@ -1,4 +1,6 @@
 # 🗳️ Decentralized Voting Program (Solana + Anchor)
+![Demo](demo.mp4)
+
 
 A decentralized voting application built on the Solana blockchain using **Anchor framework**.  
 Users can vote on predefined candidates, and votes are stored on-chain securely and transparently.  
