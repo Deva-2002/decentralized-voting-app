@@ -17,12 +17,12 @@ export async function GET(request: Request) {
             actions: [
                 {
                     type: "transaction",
-                    label: "Vote for Crunchy",
+                    label: "Vote for Trump",
                     href: "/api/vote?candidate=Trump",
                 },
                 {
                     type: "transaction",
-                    label: "Vote for Smooth",
+                    label: "Vote for Biden",
                     href: "/api/vote?candidate=Biden",
                 }
             ]
