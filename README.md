@@ -92,20 +92,6 @@ Next.js (frontend + API routes)
 MIT License © 2025 Deva Krishna S J
 
 
-
-
-
-
-
-
-Ask ChatGPT
-
-
-
-
-
-ChatGPT can mak
-
 ```shell
 pnpm create solana-dapp@latest -t gh:solana-foundation/templates/templates/voting
 ```
